@@ -114,7 +114,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://staging.d5x7q19xrxoze.amplifyapp.com/"
+                  href="https://tyjay00.github.io/Cinema-Search/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
